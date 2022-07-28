@@ -15,6 +15,7 @@
   "license": "ISC",
   "homepage": "https:// flaviu8.github.io/html",
   "dependencies": {
+    "dist": "^0.1.2",
     "gh-pages": "^4.0.0"
   }
 }
